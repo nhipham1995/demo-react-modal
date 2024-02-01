@@ -1,0 +1,15 @@
+src
+.babelrc
+
+node_modules
+.git
+.gitignore
+CVS
+.svn
+.lock-wscript
+.DS_Store
+npm-debug.log
+.npmrc
+
+config.gypi
+Package-lock.json
