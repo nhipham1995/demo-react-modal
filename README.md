@@ -28,3 +28,4 @@ class Example extends Component {
 ## License
 
 MIT © [Nhi PHAM](https://github.com/Nhi PHAM)
+# demo-react-modal
